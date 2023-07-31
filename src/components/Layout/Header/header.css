@@ -1,0 +1,8 @@
+/* Seletor para a classe active na navbar */
+ul li.active a {
+    color: white;
+  }
+
+  .active a {
+    color: white;
+  }
